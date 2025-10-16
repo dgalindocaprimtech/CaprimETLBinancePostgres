@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaprimETLBinancePostgres", "CaprimETLBinancePostgres.csproj", "{0F6A7895-6258-4ACA-B831-EF61A5AC0C75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F6A7895-6258-4ACA-B831-EF61A5AC0C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F6A7895-6258-4ACA-B831-EF61A5AC0C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F6A7895-6258-4ACA-B831-EF61A5AC0C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F6A7895-6258-4ACA-B831-EF61A5AC0C75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07EE867E-C896-47AF-BCDC-5E9F79C5E3F8}
+	EndGlobalSection
+EndGlobal

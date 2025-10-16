@@ -1,0 +1,72 @@
+# Binaries and build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# IDE and editor files
+.vscode/
+.vs/
+.github/
+
+# NuGet packages
+packages/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Operating System files
+Thumbs.db
+.DS_Store
+
+# Test results and coverage reports
+TestResults/
+CoverageReport/
+coveragereport/
+coverage.xml
+coverage.cobertura.xml
+coverage.opencover.xml
+coverage.json
+coverage.lcov
+lcov.info
+*.coverage
+*.coveragexml
+
+# Environment variables (sensitive data)
+# Para efectos del ejercicio el archivo se comenta la linea con el fin de subirlo al repositorio, sin embargo para un  proyecto real es recomendable no subir este archivo.
+# .env
+
+
+
+# Docker volumes
+postgres_data/
+
+# Rider
+.idea/
+
+# ReSharper
+_ReSharper/
+
+# Visual Studio Code
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+
+# ASP.NET Core
+appsettings.Local.json
+
+# HTTP test files (development convenience)
+*.http
+
+# Entity Framework
+*.db
+*.db-shm
+*.db-wal
+
+# Windows
+*.exe
+*.dll
+*.pdb
