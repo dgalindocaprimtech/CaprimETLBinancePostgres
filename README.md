@@ -1,1 +1,3 @@
 Este proyecto es una herramienta automatizada para procesar y organizar información de Binance. Su función principal es extraer datos, como las actualizaciones de KYC (Conozca a su Cliente), transformarlos y cargarlos de manera eficiente en una base de datos PostgreSQL. Esto permite mantener la información centralizada, segura y actualizada para su posterior consulta y análisis.
+
+Se realiza envio a David Galindo con la forma de usarlo.
